@@ -1,0 +1,13 @@
+
+img {
+    background-color: rgb(255, 255, 255);
+    justify-content: center;
+    text-align: center;
+    border-radius: 25px;
+    width: 400px;
+    height: 300px;
+}
+
+body{
+    text-align: center;
+}
